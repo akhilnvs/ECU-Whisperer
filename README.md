@@ -2,7 +2,7 @@
 
 ## Overview
 
-SmartUDS is an AI-powered diagnostic assistant designed to analyze UDS (Unified Diagnostic Services) logs, detect issues, and generate intelligent insights for ECU validation and automotive testing.
+ECU-Whisperer is an AI-powered diagnostic assistant designed to analyze UDS (Unified Diagnostic Services) logs, detect issues, and generate intelligent insights for ECU validation and automotive testing.
 
 This project combines automotive diagnostics with AI to simplify debugging, improve test efficiency, and assist engineers in understanding complex UDS communication.
 
