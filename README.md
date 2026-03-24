@@ -1,4 +1,4 @@
-# 🚗🤖 SmartUDS: AI-Powered Diagnostic Assistant
+# 🚗🤖 ECU-Whisperer: AI-Powered Diagnostic Assistant
 
 ## Overview
 
